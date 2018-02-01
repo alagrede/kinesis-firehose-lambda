@@ -1,0 +1,11 @@
+{
+  "type": "record",
+  "name": "STD_EX",
+  "fields" : [
+    { "name": "timestamp", "type": "long" },
+    { "name": "Val_0", "type": "boolean" },
+    { "name": "Val_1", "type": "boolean" },
+    { "name": "Val_I3", "type": "int" },
+    { "name": "B1_S", "type": "boolean" }
+  ]		
+}
